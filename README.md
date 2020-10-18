@@ -13,6 +13,7 @@
 - [2020/01/03 - golang 中 slice 、map、chan 作为函数参数分析](https://blog.csdn.net/chenxun_2010/article/details/103818683)
 - [2019/08/15 - Go 並發，雖然官方推薦 Channel，但到底是 Channel 還是鎖？](https://kknews.cc/zh-tw/code/8vlo82n.html)
 - [2019/05/05 - 圖解 Go 的 Channel 底層原理](https://jiemin.wang/2019/05/05/go-channal-graphic/)
+- [2019/04/01 - Understanding Real-World Concurrency Bugs in Go](https://cseweb.ucsd.edu/~yiying/GoStudy-ASPLOS19.pdf)、[中文說明](https://mp.weixin.qq.com/s/EnLxJEoPrASWytmM8jJtmg)、[Github](https://github.com/system-pclub/go-concurrency-bugs)
 - [2019/01/27 - 在 Go 中使用 Mutex 與 Channel 進行狀態同步](https://www.mdeditor.tw/pl/2q3g/zh-tw)
 - [2017/12/04 - Go 併發原理](https://i6448038.github.io/2017/12/04/golang-concurrency-principle/)
 - [2017/07/30 - 深入理解 Go Channel](http://legendtkl.com/2017/07/30/understanding-golang-channel/)
