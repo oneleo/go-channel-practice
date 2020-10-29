@@ -5,6 +5,7 @@
 - 不要用共用記體的方式來通訊。作為替代，應該以通訊作為方法來共用記憶體。
 
 # Reference
+- [2020/10/22 - 6 張圖看懂特殊的 Goroutine:g0](https://mp.weixin.qq.com/s/z-Uv5bf78aHMW_nFOJgBbw)
 - [2020/10/11 - Mutual exclusion lock in golang with examples](https://shareablecode.com/snippets/mutual-exclusion-lock-in-golang-with-examples-synchronized-data-access-VVPm-sQaG?fbclid=IwAR100efYrFSKJPdFN2YPGYZnU1RxA2thbBlkkVUhp3cMgYv9-TAve7vHkvs)
 - [2020/08/23 - Go by Example](https://gobyexample.com/)、[中文翻譯](https://learnku.com/docs/gobyexample/2020)、[Github](https://github.com/mmcgrana/gobyexample)
 - [2020/08/21 - 使用 Go channel 的正確姿勢 by Gaston Chiu | COSCUP 2020](https://youtu.be/SY1pMIs1ibw)
